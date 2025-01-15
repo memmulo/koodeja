@@ -1,7 +1,7 @@
-# Tässä repositoryssä on koulussa tekemiämmäme koodeja
+## Tässä repositoryssä on koulussa tekemiämmäme koodeja
 
-# C-kieli:
+## C-kieli:
 
-# C++
+## C++
 
-# Arduino
+## Arduino
